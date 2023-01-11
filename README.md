@@ -2,8 +2,8 @@
 
 ### Planejamento de Projeto
 
-- [ ] Planejar Projeto
-- [ ] Organizar os Arquivos iniciais
+- [X] Planejar Projeto
+- [X] Organizar os Arquivos iniciais
 - [ ] Montar Background da Main
 - [ ] Montar o Componente Cabeçalho 
 - [ ] Estilizar o Componente Cabeçalho 
