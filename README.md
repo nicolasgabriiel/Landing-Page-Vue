@@ -4,8 +4,8 @@
 
 - [X] Planejar Projeto
 - [X] Organizar os Arquivos iniciais
-- [ ] Montar Background da Main
-- [ ] Montar o Componente Cabeçalho 
+- [X] Montar Background da Main
+- [X] Montar o Componente Cabeçalho 
 - [ ] Estilizar o Componente Cabeçalho 
 - [ ] Montar o Componente Inicial 
 - [ ] Estilizar o Componente Inicial 
@@ -20,3 +20,4 @@
 - [ ] Criar Validação do 6º componente
 - [ ] Montar o Footer
 - [ ] Estilizar o Footer
+- [ ] Construir Readme
