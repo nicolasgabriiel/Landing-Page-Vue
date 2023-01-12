@@ -6,7 +6,7 @@
 - [X] Organizar os Arquivos iniciais
 - [X] Montar Background da Main
 - [X] Montar o Componente Cabeçalho 
-- [ ] Estilizar o Componente Cabeçalho 
+- [X] Estilizar o Componente Cabeçalho 
 - [ ] Montar o Componente Inicial 
 - [ ] Estilizar o Componente Inicial 
 - [ ] Montar o componente de 4 blocos

@@ -1,10 +1,11 @@
 <template>
+
   <header>
-    
+
     <div>
       <h1><img src="../assets/logo.svg"></h1>
     </div>
-    
+
     <div>
       <nav>
         <a>Features</a>
@@ -12,8 +13,9 @@
         <a>Sign In</a>
       </nav>
     </div>
-  
+
   </header>
+
 </template>
 
 <script lang="ts">
@@ -25,4 +27,25 @@ export default defineComponent({
 })
 </script>
 
+<style scoped>
+header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 4% 10%;
+}
+
+nav > a {
+  font-size: 18px;
+  color: white;
+  margin-left: 50px;
+  transition: .4s;
+}
+
+nav > a:hover {
+  font-size: 18.6px;
+  text-decoration: underline;
+  cursor: pointer;
+}
+</style>
 
