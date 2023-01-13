@@ -10,8 +10,10 @@
 - [X] Criar o Componente Chamada
 - [x] Montar o Componente Chamada 
 - [x] Estilizar o Componente Chamada 
-- [ ] Montar o componente de 4 blocos
-- [ ] Estilizar o componente de 4 blocos
+- [x] Criar o Componente Blocos
+- [ ] Criar Background image no fundo
+- [ ] Montar o componente blocos
+- [ ] Estilizar o componente blocos
 - [ ] Montar o 4º Componente
 - [ ] Estilizar o 4º Componente
 - [ ] Montar o 5º Componente
