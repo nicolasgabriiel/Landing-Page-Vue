@@ -12,7 +12,7 @@
 - [x] Estilizar o Componente Chamada 
 - [x] Criar o Componente Blocos
 - [x] Criar Background image no fundo
-- [ ] Montar o componente blocos
+- [X] Montar o componente blocos
 - [ ] Estilizar o componente blocos
 - [ ] Montar o 4º Componente
 - [ ] Estilizar o 4º Componente
