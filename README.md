@@ -7,8 +7,9 @@
 - [X] Montar Background da Main
 - [X] Montar o Componente Cabeçalho 
 - [X] Estilizar o Componente Cabeçalho 
-- [ ] Montar o Componente Inicial 
-- [ ] Estilizar o Componente Inicial 
+- [X] Criar o Componente Chamada
+- [ ] Montar o Componente Chamada 
+- [ ] Estilizar o Componente Chamada 
 - [ ] Montar o componente de 4 blocos
 - [ ] Estilizar o componente de 4 blocos
 - [ ] Montar o 4º Componente

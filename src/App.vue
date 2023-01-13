@@ -1,26 +1,17 @@
 <template>
-  <div>
-    <Logo/>
-  </div>
+  <LandingPage/>
 </template>
 
 <script lang="ts">
 import { defineComponent } from 'vue';
-import Logo from './components/Logo.vue'
+import LandingPage from './components/Landing-Page.vue'
 
 export default defineComponent({
   name: 'App',
   components: {
-    Logo
+    LandingPage
   }
 });
 </script>
 
-<style >
-@import url(./reset.css);
-#app {
-  background-color: #1C2230;
-  min-height: 100vh;
-  width: 100%;
-}
-</style>
+
