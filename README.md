@@ -9,7 +9,7 @@
 - [X] Estilizar o Componente Cabeçalho 
 - [X] Criar o Componente Chamada
 - [x] Montar o Componente Chamada 
-- [ ] Estilizar o Componente Chamada 
+- [x] Estilizar o Componente Chamada 
 - [ ] Montar o componente de 4 blocos
 - [ ] Estilizar o componente de 4 blocos
 - [ ] Montar o 4º Componente

@@ -37,10 +37,24 @@ h2{
 }
 p{
     font-size: 22px;
-    width: 580px;
+    width: 650px;
     text-align: center;
     letter-spacing: 1px;
     margin: 10px 0 50px;
     line-height: 30px;
+}
+button{
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+    border-radius: 40px;
+    transition: .7s;
+    background-color: #4EC3D4;
+    padding: 20px 100px;
+}
+button:hover{
+    background-color: #5eb9c7;
+    scale: 1.05;
+    cursor: pointer;
 }
 </style>
