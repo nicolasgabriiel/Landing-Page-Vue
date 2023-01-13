@@ -1,5 +1,12 @@
 <template>
-    <h1>oiii</h1>
+    <div>
+        <img src="../assets/illustration-intro.png" alt="Imagem de chamada pra ação">
+        <h2>
+            All your files in one secure location, <br/> accessible anywhere.
+        </h2>
+        <p>Fylo Stores all your most importante files in one secure location. Access them wherever you need, share and collaborate with firends family, and co-workers.</p>
+        <button>Get Started</button>
+    </div>
 </template>
 
 <script lang="ts">
@@ -10,3 +17,30 @@ export default defineComponent ({
     name: 'chamadaPraAcao',
 })
 </script>
+
+<style scoped>
+div{
+    display: flex;
+    flex-direction: column;
+    widows: 40%;
+    align-items: center;
+}
+h2, p{
+    color: white;
+}
+h2{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin: 30px 0 20px;
+    line-height: 45px;
+}
+p{
+    font-size: 22px;
+    width: 580px;
+    text-align: center;
+    letter-spacing: 1px;
+    margin: 10px 0 50px;
+    line-height: 30px;
+}
+</style>
