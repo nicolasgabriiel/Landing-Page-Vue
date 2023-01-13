@@ -19,11 +19,16 @@ export default defineComponent ({
 </script>
 
 <style scoped>
+
 div{
     display: flex;
     flex-direction: column;
-    widows: 40%;
     align-items: center;
+    background-image: url(../assets/bg-curvy-desktop.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: bottom;
+    padding-bottom: 250px;
 }
 h2, p{
     color: white;
