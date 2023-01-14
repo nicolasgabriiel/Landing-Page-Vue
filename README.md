@@ -15,8 +15,9 @@
 - [X] Montar o componente blocos
 - [x] Estilizar o componente blocos
 - [x] Adicionar Fonte
-- [ ] Montar o 4º Componente
-- [ ] Estilizar o 4º Componente
+- [X] Criar componente Segunda Chamada
+- [x] Montar componente Segunda Chamada
+- [ ] Estilizar componente Segunda Chamada
 - [ ] Montar o 5º Componente
 - [ ] Estilizar o 5º Componente
 - [ ] Montar o 6º Componente
