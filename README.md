@@ -17,7 +17,7 @@
 - [x] Adicionar Fonte
 - [X] Criar componente Segunda Chamada
 - [x] Montar componente Segunda Chamada
-- [ ] Estilizar componente Segunda Chamada
+- [x] Estilizar componente Segunda Chamada
 - [ ] Montar o 5º Componente
 - [ ] Estilizar o 5º Componente
 - [ ] Montar o 6º Componente
