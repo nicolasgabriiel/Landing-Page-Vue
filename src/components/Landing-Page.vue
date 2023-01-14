@@ -4,6 +4,7 @@
       <Chamada/>
       <Blocos/>
       <SegundaChamada/>
+      <Comentarios/>
     </div>
   </template>
   
@@ -13,6 +14,7 @@
   import Chamada from './Chamada.vue'
   import Blocos from './Blocos.vue'
   import SegundaChamada from './SegundaChamada.vue'
+  import Comentarios from './Comentarios.vue'
   
   export default defineComponent({
     name: 'LandingPage',
@@ -20,7 +22,8 @@
       Logo,
       Chamada,
       Blocos,
-      SegundaChamada
+      SegundaChamada,
+      Comentarios
     }
   });
   </script>

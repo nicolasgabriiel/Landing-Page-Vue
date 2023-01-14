@@ -18,8 +18,9 @@
 - [X] Criar componente Segunda Chamada
 - [x] Montar componente Segunda Chamada
 - [x] Estilizar componente Segunda Chamada
-- [ ] Montar o 5º Componente
-- [ ] Estilizar o 5º Componente
+- [ ] Criar o componente comentarios
+- [ ] Montar o componente comentarios
+- [ ] Estilizar o componente comentarios
 - [ ] Montar o 6º Componente
 - [ ] Estilizar o 6º Componente
 - [ ] Criar Validação do 6º componente
