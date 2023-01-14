@@ -13,7 +13,8 @@
 - [x] Criar o Componente Blocos
 - [x] Criar Background image no fundo
 - [X] Montar o componente blocos
-- [ ] Estilizar o componente blocos
+- [x] Estilizar o componente blocos
+- [ ] Adicionar Fonte
 - [ ] Montar o 4º Componente
 - [ ] Estilizar o 4º Componente
 - [ ] Montar o 5º Componente
