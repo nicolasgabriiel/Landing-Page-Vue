@@ -70,10 +70,13 @@ export default defineComponent ({
     color: white;
     font-size: 21px;
     font-weight: bold;
-    padding: 20px 0 10px 0;
+    padding: 20px 0 15px 0;
+    font-family: 'Open Sans';
 }
 .blocos p{
     color: white;
+    font-size: 14px;
     margin-bottom: 100px;
+    font-family: 'Open Sans';
 }
 </style>

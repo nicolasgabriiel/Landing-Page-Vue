@@ -40,10 +40,11 @@ nav > a {
   color: white;
   margin-left: 50px;
   transition: .4s;
+  font-family: 'Raleway'
 }
 
 nav > a:hover {
-  font-size: 18.6px;
+  font-weight: bold;
   text-decoration: underline;
   cursor: pointer;
 }

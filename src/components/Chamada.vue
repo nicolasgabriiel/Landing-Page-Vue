@@ -39,6 +39,7 @@ h2{
     text-align: center;
     margin: 30px 0 20px;
     line-height: 45px;
+    font-family: 'Open Sans';
 }
 p{
     font-size: 22px;
@@ -47,6 +48,7 @@ p{
     letter-spacing: 1px;
     margin: 10px 0 50px;
     line-height: 30px;
+    font-family: 'Open Sans';
 }
 button{
     color: white;
@@ -56,6 +58,7 @@ button{
     transition: .7s;
     background-color: #4EC3D4;
     padding: 20px 100px;
+    font-family: 'Raleway';
 }
 button:hover{
     background-color: #5eb9c7;
