@@ -3,6 +3,7 @@
       <Logo/>
       <Chamada/>
       <Blocos/>
+      <SegundaChamada/>
     </div>
   </template>
   
@@ -11,13 +12,15 @@
   import Logo from './Logo.vue'
   import Chamada from './Chamada.vue'
   import Blocos from './Blocos.vue'
+  import SegundaChamada from './SegundaChamada.vue'
   
   export default defineComponent({
     name: 'LandingPage',
     components: {
       Logo,
       Chamada,
-      Blocos
+      Blocos,
+      SegundaChamada
     }
   });
   </script>
