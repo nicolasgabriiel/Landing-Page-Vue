@@ -27,6 +27,8 @@ export default defineComponent ({
     justify-content: center;
 }
 .box{
+    position: relative;
+    top: 150px;
     width: 40%;
     text-align: center;
     background-color: #21293C;
