@@ -1,4 +1,4 @@
-#Projeto Landing Page
+# Projeto Landing Page
 Esta é uma solução para o desafio [Fylo Landing Page](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd) do site [Front End Mentor](https://www.frontendmentor.io/challenges), onde você escontra diversos desafios que vão te ajudar a melhorar na área do Front-End.
 
 ## Sumário
