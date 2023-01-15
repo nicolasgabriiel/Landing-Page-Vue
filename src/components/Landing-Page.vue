@@ -6,6 +6,7 @@
       <SegundaChamada/>
       <Comentarios/>
       <Acesso/>
+      <Rodape/>
     </div>
   </template>
   
@@ -17,6 +18,7 @@
   import SegundaChamada from './SegundaChamada.vue'
   import Comentarios from './Comentarios.vue'
   import Acesso from './Acesso.vue'
+  import Rodape from './Rodape.vue'
   
   
   export default defineComponent({
@@ -27,7 +29,8 @@
       Blocos,
       SegundaChamada,
       Comentarios,
-      Acesso
+      Acesso,
+      Rodape,
     }
   });
   </script>
