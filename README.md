@@ -21,8 +21,8 @@
 - [x] Criar o componente comentarios
 - [x] Montar o componente comentarios
 - [x] Estilizar o componente comentarios
-- [ ] Criar componente acesso
-- [ ] Montar o componente Acesso
+- [x] Criar componente acesso
+- [x] Montar o componente Acesso
 - [ ] Estilizar o componente Acesso
 - [ ] Criar Validação docomponente Acesso
 - [ ] Criar o Footer

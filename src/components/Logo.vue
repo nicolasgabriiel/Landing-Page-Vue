@@ -39,7 +39,6 @@ nav > a {
   font-size: 18px;
   color: white;
   margin-left: 50px;
-  transition: .4s;
   font-family: 'Raleway'
 }
 
