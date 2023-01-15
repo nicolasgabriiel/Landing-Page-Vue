@@ -18,12 +18,14 @@
 - [X] Criar componente Segunda Chamada
 - [x] Montar componente Segunda Chamada
 - [x] Estilizar componente Segunda Chamada
-- [ ] Criar o componente comentarios
-- [ ] Montar o componente comentarios
-- [ ] Estilizar o componente comentarios
-- [ ] Montar o 6º Componente
-- [ ] Estilizar o 6º Componente
-- [ ] Criar Validação do 6º componente
+- [x] Criar o componente comentarios
+- [x] Montar o componente comentarios
+- [x] Estilizar o componente comentarios
+- [ ] Criar componente acesso
+- [ ] Montar o componente Acesso
+- [ ] Estilizar o componente Acesso
+- [ ] Criar Validação docomponente Acesso
+- [ ] Criar o Footer
 - [ ] Montar o Footer
 - [ ] Estilizar o Footer
 - [ ] Construir Readme
