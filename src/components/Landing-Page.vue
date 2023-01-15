@@ -5,6 +5,7 @@
       <Blocos/>
       <SegundaChamada/>
       <Comentarios/>
+      <Acesso/>
     </div>
   </template>
   
@@ -15,6 +16,8 @@
   import Blocos from './Blocos.vue'
   import SegundaChamada from './SegundaChamada.vue'
   import Comentarios from './Comentarios.vue'
+  import Acesso from './Acesso.vue'
+  
   
   export default defineComponent({
     name: 'LandingPage',
@@ -23,7 +26,8 @@
       Chamada,
       Blocos,
       SegundaChamada,
-      Comentarios
+      Comentarios,
+      Acesso
     }
   });
   </script>
