@@ -23,8 +23,8 @@
 - [x] Estilizar o componente comentarios
 - [x] Criar componente acesso
 - [x] Montar o componente Acesso
-- [ ] Estilizar o componente Acesso
-- [ ] Criar Validação docomponente Acesso
+- [x] Estilizar o componente Acesso
+- [x] Criar Validação docomponente Acesso
 - [ ] Criar o Footer
 - [ ] Montar o Footer
 - [ ] Estilizar o Footer
